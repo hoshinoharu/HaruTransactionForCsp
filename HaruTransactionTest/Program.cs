@@ -10,7 +10,6 @@ namespace HaruTransactionTest
     {
         static void Main(string[] args)
         {
-            啥领导力假按揭
         }
     }
 }
